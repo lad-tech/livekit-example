@@ -11,4 +11,4 @@ RUN ./init_script.sh
 
 ENTRYPOINT [ "/livekit-server" ]
 
-CMD ["--dev"]
+CMD ["--dev", "--bind 0.0.0.0"]
