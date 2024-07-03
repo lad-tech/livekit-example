@@ -1,0 +1,15 @@
+redis:
+    address: localhost:6379
+    username: ""
+    password: ""
+    db: 0
+    use_tls: false
+    sentinel_master_name: ""
+    sentinel_username: ""
+    sentinel_password: ""
+    sentinel_addresses: []
+    cluster_addresses: []
+    max_redirects: null
+api_key: APIByL7W9A44cDq
+api_secret: D7HEOiehgJOaiR9GhF4zf8kfa6sT27xXb0hhzrMvfqDA
+ws_url: wss://lks-livekit.exsupn.easypanel.host
